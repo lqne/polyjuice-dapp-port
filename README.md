@@ -1,4 +1,4 @@
-# TODOLIST DAPP PORTRATED TO POLYJUICE
+#LQNES TODOLIST DAPP PORTRATED TO POLYJUICE
 
 [Original repository - blockchain-ethereum-contract](https://github.com/AndrewJBateman/blockchain-ethereum-contract)
 
@@ -17,5 +17,5 @@
 
 ## :camera: Screenshots
 
-![Example screenshot 1](./img/task.png)
-![Example screenshot 2](./img/task_2.png)
+![Example screenshot 1](./img/Polyjuice_dapp_port_lqne_did_it.png)
+

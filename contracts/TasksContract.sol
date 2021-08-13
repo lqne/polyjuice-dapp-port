@@ -6,7 +6,7 @@ contract TasksContract {
   uint public taskCounter = 0;
 
   constructor () public {
-    createTask("TODO Dapp",  "portrated to Polyjuice");
+    createTask("LQNE-TODO Dapp",  "portrated to Polyjuice");
   }
 
   struct Task {

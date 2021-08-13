@@ -1,4 +1,4 @@
-truffle migrate --reset --network godwoken
+lqneshvdxw@MSI:~/projects/polyjuice-dapp-port$ truffle migrate --reset --network godwoken
 {
   rollupTypeHash: '0x4cc2e6526204ae6a2e8fcf12f7ad472f41a1606d5b9624beebd215d780809f6a',
   ethAccountLockCodeHash: '0xdeec13a7b8e100579541384ccaf4b5223733e4a5483c3aec95ddc4c1d5ea5b22',
@@ -7,10 +7,7 @@ truffle migrate --reset --network godwoken
 
 Compiling your contracts...
 ===========================
-> Compiling ./contracts/TasksContract.sol
-> Artifacts written to /home/x777/react/gitcoin-task-7/blockchain-ethereum-contract/build/contracts
-> Compiled successfully using:
-   - solc: 0.5.16+commit.9c3226ce.Emscripten.clang
+> Everything is up to date, there is nothing to compile.
 
 
 
@@ -26,13 +23,13 @@ Starting migrations...
 
    Replacing 'Migrations'
    ----------------------
-   > transaction hash:    0x30c9df14c9cc246fc2b2f2435c21de140371a6ba87c7e3315c11e24883b64748
-   > Blocks: 0            Seconds: 69
-   > contract address:    0xcf0aa2Afe78AbA0910C2a4bEBa8e78b8c9CFa9c8
-   > block number:        19172
-   > block timestamp:     1628789934
-   > account:             0x37C2b41ea4a10308d043F790493A3CdEc28585ae
-   > balance:             0.000000199997700086
+   > transaction hash:    0x2fc26b3152ef7baa36135e9d4d062ee0be31605e1de3988232078389b27bf6a7
+   > Blocks: 2            Seconds: 89
+   > contract address:    0x8037d1699C6f4F13678644408d5E9616441644e5
+   > block number:        19805
+   > block timestamp:     1628825681
+   > account:             0x43Fd32Dbf3ca41D05de2F661B53cA981bB3f4a7A
+   > balance:             0.00000034
    > gas used:            21019 (0x521b)
    > gas price:           0 gwei
    > value sent:          0 ETH
@@ -50,13 +47,13 @@ Starting migrations...
 
    Replacing 'TasksContract'
    -------------------------
-   > transaction hash:    0x1d87cd180ee4ad7f5f2e3e9554a60639c53a6fff546392d40eff059a8a5525cb
-   > Blocks: 0            Seconds: 68
-   > contract address:    0x57a4d44de477A569766Ab934Fff38281d034f3EF
-   > block number:        19174
-   > block timestamp:     1628790054
-   > account:             0x37C2b41ea4a10308d043F790493A3CdEc28585ae
-   > balance:             0.000000199997700086
+   > transaction hash:    0x834aded07ad242cf3ba2e49689554526bf4aa92c7b6ca8e9ec21a280d29491f1
+   > Blocks: 1            Seconds: 65
+   > contract address:    0x7fA8f78f5CCBFD187ab990D73F9622f8F93E6643
+   > block number:        19808
+   > block timestamp:     1628825896
+   > account:             0x43Fd32Dbf3ca41D05de2F661B53cA981bB3f4a7A
+   > balance:             0.00000034
    > gas used:            151262 (0x24ede)
    > gas price:           0 gwei
    > value sent:          0 ETH
